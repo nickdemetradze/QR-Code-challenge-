@@ -3,6 +3,8 @@
 ### Screenshot
 
 ### Links
+- Solution URL: [GitHub repo URL](https://github.com/nickdemetradze/QR-Code-challenge-)
+- Live Site URL: [Click to see the live webpage](https://nickdemetradze.github.io/QR-Code-challenge-/)
 
 ### Built with
 
