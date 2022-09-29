@@ -14,7 +14,7 @@
 
 
 ## Author
-- Website - [Nika Demetradze](https://www.your-site.com)
+- Website - [Nika Demetradze](https://nickdemetradze.github.io/QR-Code-challenge-/)
 
 
 ## Acknowledgments
