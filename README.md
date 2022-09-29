@@ -1,7 +1,7 @@
 # QR-Code-challenge-
 
 ### Screenshot
-
+![Alt text](image-qr-code.png)
 ### Links
 - Solution URL: [Click to see the GitHub repository](https://github.com/nickdemetradze/QR-Code-challenge-)
 - Live Site URL: [Click to see the live web page](https://nickdemetradze.github.io/QR-Code-challenge-/)
